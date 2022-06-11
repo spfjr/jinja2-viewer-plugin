@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.spfjr.jinja2viewerplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.spfjr.jinja2viewerplugin.MyBundle
 
 class MyApplicationService {
 
